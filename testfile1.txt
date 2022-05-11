@@ -5,4 +5,4 @@ new
 uncommited
 Add Line
 commit test
-retastable
+retestable
