@@ -1,5 +1,5 @@
 test file
-new attempt 
+ 
 life rounds
 new
 uncommited
@@ -9,3 +9,4 @@ retestable
 untestable
 
 new branch line
+git gui attempt
